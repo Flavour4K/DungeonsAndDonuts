@@ -9,3 +9,14 @@ C:\Users\Bjarne\Desktop\DungeonsandDonuts\obj\Debug\netcoreapp2.0\DungeonsandDon
 C:\Users\Bjarne\Desktop\DungeonsandDonuts\obj\Debug\netcoreapp2.0\DungeonsandDonuts.AssemblyInfo.cs
 C:\Users\Bjarne\Desktop\DungeonsandDonuts\obj\Debug\netcoreapp2.0\DungeonsandDonuts.dll
 C:\Users\Bjarne\Desktop\DungeonsandDonuts\obj\Debug\netcoreapp2.0\DungeonsandDonuts.pdb
+C:\Repos\SidePros\DungeonsAndDonuts\bin\Debug\netcoreapp2.0\DungeonsandDonuts.deps.json
+C:\Repos\SidePros\DungeonsAndDonuts\bin\Debug\netcoreapp2.0\DungeonsandDonuts.runtimeconfig.json
+C:\Repos\SidePros\DungeonsAndDonuts\bin\Debug\netcoreapp2.0\DungeonsandDonuts.runtimeconfig.dev.json
+C:\Repos\SidePros\DungeonsAndDonuts\bin\Debug\netcoreapp2.0\DungeonsandDonuts.dll
+C:\Repos\SidePros\DungeonsAndDonuts\bin\Debug\netcoreapp2.0\DungeonsandDonuts.pdb
+C:\Repos\SidePros\DungeonsAndDonuts\obj\Debug\netcoreapp2.0\DungeonsandDonuts.csprojAssemblyReference.cache
+C:\Repos\SidePros\DungeonsAndDonuts\obj\Debug\netcoreapp2.0\DungeonsandDonuts.csproj.CoreCompileInputs.cache
+C:\Repos\SidePros\DungeonsAndDonuts\obj\Debug\netcoreapp2.0\DungeonsandDonuts.AssemblyInfoInputs.cache
+C:\Repos\SidePros\DungeonsAndDonuts\obj\Debug\netcoreapp2.0\DungeonsandDonuts.AssemblyInfo.cs
+C:\Repos\SidePros\DungeonsAndDonuts\obj\Debug\netcoreapp2.0\DungeonsandDonuts.dll
+C:\Repos\SidePros\DungeonsAndDonuts\obj\Debug\netcoreapp2.0\DungeonsandDonuts.pdb

@@ -1,0 +1,20 @@
+{
+    "Knight": {
+        "HealthPoints": 100,
+        "ManaPoints": 20,
+        "ArmorValue": 20,
+        "MagicResistance": 20,
+        "AttackDamage": 30,
+        "AbilityPower": 20,
+        "CharacterType": "Knight"
+    },
+    "Mage":{
+        "HealthPoints": 70,
+        "ManaPoints": 50,
+        "ArmorValue": 15,
+        "MagicResistance": 15,
+        "AttackDamage": 20,
+        "AbilityPower": 60,
+        "CharacterType": "Mage"
+    }
+}

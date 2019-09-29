@@ -26,9 +26,5 @@ namespace DungeonsandDonuts.Characters
         public List<Ability> Abilities;
 
         public CharacterENUM.Character CharacterType { get; set; }
-
-
-
-
     }
 }
