@@ -18,7 +18,7 @@ namespace DungeonsandDonuts
 
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic here
+            GameHelper.LoadSettings();
 
             base.Initialize();
         }

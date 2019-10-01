@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bjarne\\Desktop\\DungeonsandDonuts\\DungeonsandDonuts.csproj": {}
+    "C:\\Repos\\SidePros\\DungeonsAndDonuts\\DungeonsandDonuts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bjarne\\Desktop\\DungeonsandDonuts\\DungeonsandDonuts.csproj": {
+    "C:\\Repos\\SidePros\\DungeonsAndDonuts\\DungeonsandDonuts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bjarne\\Desktop\\DungeonsandDonuts\\DungeonsandDonuts.csproj",
+        "projectUniqueName": "C:\\Repos\\SidePros\\DungeonsAndDonuts\\DungeonsandDonuts.csproj",
         "projectName": "DungeonsandDonuts",
-        "projectPath": "C:\\Users\\Bjarne\\Desktop\\DungeonsandDonuts\\DungeonsandDonuts.csproj",
-        "packagesPath": "C:\\Users\\Bjarne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bjarne\\Desktop\\DungeonsandDonuts\\obj\\",
+        "projectPath": "C:\\Repos\\SidePros\\DungeonsAndDonuts\\DungeonsandDonuts.csproj",
+        "packagesPath": "C:\\Users\\thomas kruessel\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\SidePros\\DungeonsAndDonuts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Bjarne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\thomas kruessel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\emp-fs01\\teamdata\\EDV\\IT-ERP - Intern\\NuGet\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,6 +55,10 @@
             "MonoGame.Framework.DesktopGL.Core": {
               "target": "Package",
               "version": "[3.7.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
             }
           },
           "imports": [

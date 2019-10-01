@@ -8,7 +8,6 @@ namespace DungeonsandDonuts.Characters
     {
         public enum Character
         {
-            Healer,
             Knight,
             Mage
         }
