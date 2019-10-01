@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/knight.png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/knight-running.png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/knight-basichit.png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/wizard-male.png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/wizard-male-running.png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/wizard-male-basichit.png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/rock.png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/background.png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Attack/Attack (1).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Attack/Attack (2).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Attack/Attack (3).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Attack/Attack (4).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Attack/Attack (5).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Attack/Attack (6).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Attack/Attack (7).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Attack/Attack (8).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (1).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (10).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (11).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (12).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (2).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (3).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (4).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (5).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (6).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (7).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (8).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Dead/Dead (9).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (1).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (10).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (11).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (12).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (13).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (14).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (15).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (2).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (3).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (4).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (5).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (6).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (7).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (8).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (9).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Walk/Walk (1).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Walk/Walk (10).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Walk/Walk (2).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Walk/Walk (3).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Walk/Walk (4).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Walk/Walk (5).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Walk/Walk (6).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Walk/Walk (7).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Walk/Walk (8).png</File>
+    <File>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Walk/Walk (9).png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

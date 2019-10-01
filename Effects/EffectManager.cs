@@ -14,7 +14,7 @@ namespace DungeonsandDonuts.Effects
         private Enemy _enemy;
         private int _maxTicks;
         private int _currentTick;
-
+        private double _startMovement;
         /// <summary>
         /// Creates timer and starts the effects
         /// </summary>
@@ -24,7 +24,7 @@ namespace DungeonsandDonuts.Effects
             _enemy = enemy;
             _maxTicks = (int)(effect.DurationInSeconds / effect.TickIntervalSeconds);
             _maxTicks = _maxTicks == 0 ? 1 : _maxTicks;
-
+            _startMovement = enemy.MovementSpeed;
             _timer = new Timer(
                 ApplyEffect, 
                 null, 
@@ -44,15 +44,18 @@ namespace DungeonsandDonuts.Effects
             }
 
             var movementImpact = _effect.MovementSpeedInterference;
-            var healthImpact = _effect.Healing;
+            var healthImpact = _effect.HealthInterference;
             _enemy.HealthPoints += healthImpact;
             _enemy.MovementSpeed += movementImpact;
         }
 
         public void Dispose()
         {
+            if (_effect.IsTemporary)
+            {
+                _enemy.MovementSpeed = _startMovement;
+            }
             _timer.Dispose();
-            _enemy = null;
             _effect = null;
         }
     }
