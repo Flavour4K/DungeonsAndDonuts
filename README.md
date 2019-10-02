@@ -14,5 +14,14 @@
 	- fire
 	- water
 - army guy?
+- Shapeshifter
 
 ## Items
+
+## Maps
+- Hell
+- Heaven
+- Water
+- City?
+
+## Abilities
