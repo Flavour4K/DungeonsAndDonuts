@@ -14,14 +14,22 @@
 	- fire
 	- water
 - army guy?
-- Shapeshifter
+- shapeshifter
+	- passive, every few second a cube spawns and changes the shape
+- Vampire
 
 ## Items
 
-## Maps
-- Hell
-- Heaven
-- Water
-- City?
+## Modes
+	- challange mode
 
-## Abilities
+## Map Designs
+	- Jungle
+	- City
+	- Hell
+	- Heaven
+	- Water
+
+## Riddles
+
+## Skins
