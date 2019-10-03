@@ -8,7 +8,32 @@ namespace DungeonsandDonuts
     {
         public enum Effect
         {
-            Burn
+            Ignite,
+            Heal
+        }
+
+        public enum Character
+        {
+            Knight,
+            Wizard
+        }
+
+        public enum UiElements
+        {
+            AbilityBorder
+        }
+
+        public enum Enemies
+        {
+            Zombie
+        }
+
+        public enum EnemyAnimation
+        {
+            Idle,
+            Walking,
+            Attacking,
+            Dying
         }
     }
 }

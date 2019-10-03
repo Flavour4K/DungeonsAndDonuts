@@ -1,0 +1,18 @@
+﻿{
+  "Ignite": {
+    "DurationInSeconds": 3,
+    "TickIntervalSeconds": 0.5,
+    "HealthInterference": -10,
+    "MovementSpeedInterference": 0,
+    "EffectType": "Ignite",
+    "IsTemporary" : false 
+  },
+  "Heal": {
+    "DurationInSeconds": 0,
+    "TickIntervalSeconds": 0,
+    "HealthInterference": 50,
+    "MovementSpeedInterference": 0,
+    "EffectType": "Heal",
+    "IsTemporary" : false 
+  } 
+}

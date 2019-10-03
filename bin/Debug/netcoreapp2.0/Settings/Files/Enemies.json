@@ -1,0 +1,13 @@
+﻿{
+  "Zombie": {
+    "HealthPoints": 100,
+    "ManaPoints": 20,
+    "ArmorValue": 20,
+    "MagicResistance": 20,
+    "AttackDamage": 30,
+    "AbilityPower": 20,
+    "AttacksPerSecond": 0.7,
+    "MovementSpeed": 250,
+    "EnemyType": "Zombie"
+  }
+}
