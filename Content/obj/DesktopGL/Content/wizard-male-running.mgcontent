@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Repos/SidePros/DungeonsAndDonuts/Content/wizard-male-running.png</SourceFile>
-  <SourceTime>2019-09-30T14:20:16.2628819+02:00</SourceTime>
-  <DestFile>C:/Repos/SidePros/DungeonsAndDonuts/Content/bin/DesktopGL/Content/wizard-male-running.xnb</DestFile>
-  <DestTime>2019-09-30T14:21:37.9913528+02:00</DestTime>
+  <SourceFile>C:/Users/Bjarne/Desktop/DungeonsAndDonuts/Content/wizard-male-running.png</SourceFile>
+  <SourceTime>2019-10-03T18:32:46.4453892+02:00</SourceTime>
+  <DestFile>C:/Users/Bjarne/Desktop/DungeonsAndDonuts/Content/bin/DesktopGL/Content/wizard-male-running.xnb</DestFile>
+  <DestTime>2019-10-03T18:37:53.1193243+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-08-05T14:17:44+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Repos/SidePros/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (10).png</SourceFile>
-  <SourceTime>2016-09-26T10:12:48+02:00</SourceTime>
-  <DestFile>C:/Repos/SidePros/DungeonsAndDonuts/Content/bin/DesktopGL/Content/Enemies/Zombie/Male/Idle/Idle (10).xnb</DestFile>
-  <DestTime>2019-10-01T10:21:26.6604444+02:00</DestTime>
+  <SourceFile>C:/Users/Bjarne/Desktop/DungeonsAndDonuts/Content/Enemies/Zombie/Male/Idle/Idle (10).png</SourceFile>
+  <SourceTime>2019-10-03T18:32:46.2383428+02:00</SourceTime>
+  <DestFile>C:/Users/Bjarne/Desktop/DungeonsAndDonuts/Content/bin/DesktopGL/Content/Enemies/Zombie/Male/Idle/Idle (10).xnb</DestFile>
+  <DestTime>2019-10-03T18:37:53.9785169+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-08-05T14:17:44+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

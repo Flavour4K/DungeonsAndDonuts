@@ -1,31 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\SidePros\\DungeonsAndDonuts\\DungeonsandDonuts.csproj": {}
+    "C:\\Users\\Bjarne\\Desktop\\DungeonsAndDonuts\\DungeonsandDonuts.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\SidePros\\DungeonsAndDonuts\\DungeonsandDonuts.csproj": {
+    "C:\\Users\\Bjarne\\Desktop\\DungeonsAndDonuts\\DungeonsandDonuts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\SidePros\\DungeonsAndDonuts\\DungeonsandDonuts.csproj",
+        "projectUniqueName": "C:\\Users\\Bjarne\\Desktop\\DungeonsAndDonuts\\DungeonsandDonuts.csproj",
         "projectName": "DungeonsandDonuts",
-        "projectPath": "C:\\Repos\\SidePros\\DungeonsAndDonuts\\DungeonsandDonuts.csproj",
-        "packagesPath": "C:\\Users\\thomas kruessel\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\SidePros\\DungeonsAndDonuts\\obj\\",
+        "projectPath": "C:\\Users\\Bjarne\\Desktop\\DungeonsAndDonuts\\DungeonsandDonuts.csproj",
+        "packagesPath": "C:\\Users\\Bjarne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bjarne\\Desktop\\DungeonsAndDonuts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\thomas kruessel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Bjarne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\emp-fs01\\teamdata\\EDV\\IT-ERP - Intern\\NuGet\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
